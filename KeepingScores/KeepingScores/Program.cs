@@ -15,6 +15,7 @@ namespace KeepingScores
         static void UseLessMethod ()
         {
             // this method does nothing
+            // Adding some comments to this silly method
         }
     }
 }
