@@ -17,6 +17,7 @@ namespace KeepingScores
             // this method does nothing
             // Adding some comments to this silly method
             // Some more stupid comments.
+            // These comments are getting ridiculous
         }
     }
 }
