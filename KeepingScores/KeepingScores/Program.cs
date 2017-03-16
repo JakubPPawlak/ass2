@@ -11,5 +11,10 @@ namespace KeepingScores
         static void Main(string[] args)
         {
         }
+
+        static void UseLessMethod ()
+        {
+            // this method does nothing
+        }
     }
 }
