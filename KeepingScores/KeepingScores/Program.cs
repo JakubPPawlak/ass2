@@ -14,7 +14,7 @@ namespace KeepingScores
 
         static void UseLessMethod ()
         {
-            // removed silly comments.
+            // removed silly comments. - made a change in GitHub
         }
     }
 }
